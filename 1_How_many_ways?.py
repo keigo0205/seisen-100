@@ -1,3 +1,8 @@
+"""
+回答
+http://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=4532150
+"""
+
 def solve(n, x):
     """
     a + b + c = x
